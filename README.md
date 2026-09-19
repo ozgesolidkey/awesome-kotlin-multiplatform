@@ -78,6 +78,7 @@ Useful libraries for developing in a Kotlin Multiplatform project.
   - [moko-widgets](https://github.com/icerockdev/moko-widgets#readme)
   - [moko-resources](https://github.com/icerockdev/moko-resources#readme)
   - [material3-windowsizeclass-multiplatform](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform#readme)
+  - [KMPMedia](https://github.com/SolidKeyAB/kmpmedia#readme)
 
 - Utils
   - [klock](https://github.com/korlibs/korge/tree/main/klock#readme)
